@@ -1,7 +1,7 @@
 # Calculadora
 
 ## Calculadora para efetuar os principais cálculos aritméticos. Feito com a linguagem Python
--------------------
+
 ### **Foi utilizado:**
 > 1. Variáveis para receber valores do usuário
 > 2. Laço de repetição While
